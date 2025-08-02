@@ -1,9 +1,4 @@
-# requirements.txt
-# streamlit==1.28.0
-# pandas==2.1.0
-# rapidfuzz==3.3.0
-# matplotlib==3.7.2
-# altair==5.1.0
+
 
 import streamlit as st
 import pandas as pd
