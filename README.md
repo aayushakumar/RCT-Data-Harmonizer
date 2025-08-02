@@ -105,3 +105,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 * LinkedIn: [linkedin.com/in/aayushakumars](https://www.linkedin.com/in/aayushakumars)
 
 Feel free to open issues or reach out with questions!
+
+
+* **DEMO**: [Click here!](https://data-harmonizer.streamlit.app/)
